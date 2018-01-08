@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">wifitest</string>
+  <string name = "search_start">search start</string>
+  <string name = "stop_start">stop start</string>
+</resources>
